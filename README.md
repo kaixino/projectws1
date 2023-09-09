@@ -9,7 +9,7 @@ This is to be used to learn Git-based development
 * A laptop
 * An internet connection
 * Power supply
-   
-### This is Heading 3
 
-#### This is Heading 4
+# Additions 
+
+This sentence was written on the local machine 
